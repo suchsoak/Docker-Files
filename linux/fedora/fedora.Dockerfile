@@ -20,7 +20,7 @@ RUN dnf update && dnf install -y \
     smartmontools \
     snapd  \
     nano \
-    java-latest-openjdk\ 
+    java-latest-openjdk \ 
     iw \
     gcc \
     g++ \   
