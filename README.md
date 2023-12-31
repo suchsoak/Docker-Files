@@ -38,7 +38,7 @@ In the linux folder you have scripts to install things needed to run linux and p
 
 | folder |  Links |
 | ------ | ------ |
-| LINUX | https://github.com/suchsoak/Docker-Files/tree/main/linux
+| LINUX | https://github.com/suchsoak/Docker-Files/blob/main/linux/linux.md
 
 </details>
 
