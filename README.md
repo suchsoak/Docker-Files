@@ -1,7 +1,31 @@
 # Docker-Files
 
-Dockerfiles for let our lifes more eay
+### Dockerfiles for let our lifes more eay
 
+```sh
+                              +----------------------------------------+
+                              |oooooooooooooooooooooooooooooooooooooooo|
+                              |oooooooooooooooooooo+++ooooooooooooooooo|
+                              |oooooooooooooooooooo   +oooooooooooooooo|
+                              |ooooooooooooo..::.::. .+oooooooooooooooo|
+                              |oooooooooo+o+  .:  :. .++oooo. .oooooooo|
+                              |ooooooooo.  :  .:  :   :  .o+    :::+ooo|
+                              |ooooooo++. .:...: .:. .:...+:      .oooo|
+                              |oooooo+                        .:++ooooo|
+                              |ooooooo                       .ooooooooo|
+                              |ooooooo:                     :oooooooooo|
+                              |oooooooo+                 .:oooooooooooo|
+                              |oooooooooo+:.         .:++oooooooooooooo|
+                              |ooooooooooooooo+++oooooooooooooooooooooo|
+                              |ooooo+:oooooooooooooo++ooooooooooooooooo|
+                              |oo++o: ooo++ooooo++o+ :ooooooo++ooooo+o+|
+                              |+.::: .+:.::.:o:.::.+ :+:::+:.::.:+ .:::|
+                              | :ooo..: +oo+ : +oooo  . +o+ .::..: +ooo|
+                              |:.:::.++.:+:.:o:.:::+.:o:.:+..::.++ +ooo|
+                              |oo++++ooo++++oooo+++o++ooo+oo++++oo+oooo|
+                              |oooooooooooooooooooooooooooooooooooooooo|
+                              +----------------------------------------+
+```
 >  [!Note]
 > This project was inspired by a github from jessfraz, she inspired me to make these scripts. So I also recommend you take a look at the amazing work she did: https://github.com/jessfraz/dockerfiles
 
@@ -10,6 +34,8 @@ Dockerfiles for let our lifes more eay
 We have here scrips to get hacker tools like nmap, aircrack-ng. Also to get programming languages and many other scrips. Enjoy and have fun.
 
 To improve the understanding I will put as an update, something like: v1.0.0 and so on. So I'll also put in more scrips over time.
+
+If you want to take the docker images use this command: **docker system prune -a**
 
 # Usage
 
