@@ -37,7 +37,11 @@ To improve the understanding I will put as an update, something like: v1.0.0 and
 
 If you want to take the docker images use this command: `docker system prune -a`
 
-### The past linux
+<details>
+  
+<summary>LINUX</summary>
+  
+### LINUX folder
 
 In the linux folder you have scripts to install things needed to run linux and packages that are of great value to linux.
 
@@ -45,6 +49,7 @@ In the linux folder you have scripts to install things needed to run linux and p
 | ------ | ------ |
 | LINUX | https://github.com/suchsoak/Docker-Files/tree/main/linux
 
+</details>
 
 # Usage
 
