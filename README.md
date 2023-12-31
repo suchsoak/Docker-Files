@@ -3,8 +3,6 @@
 ### Dockerfiles for let our lifes more eay
 
 ```sh
-                              +----------------------------------------+
-                              |oooooooooooooooooooooooooooooooooooooooo|
                               |oooooooooooooooooooo+++ooooooooooooooooo|
                               |oooooooooooooooooooo   +oooooooooooooooo|
                               |ooooooooooooo..::.::. .+oooooooooooooooo|
@@ -17,14 +15,7 @@
                               |oooooooo+                 .:oooooooooooo|
                               |oooooooooo+:.         .:++oooooooooooooo|
                               |ooooooooooooooo+++oooooooooooooooooooooo|
-                              |ooooo+:oooooooooooooo++ooooooooooooooooo|
-                              |oo++o: ooo++ooooo++o+ :ooooooo++ooooo+o+|
-                              |+.::: .+:.::.:o:.::.+ :+:::+:.::.:+ .:::|
-                              | :ooo..: +oo+ : +oooo  . +o+ .::..: +ooo|
-                              |:.:::.++.:+:.:o:.:::+.:o:.:+..::.++ +ooo|
-                              |oo++++ooo++++oooo+++o++ooo+oo++++oo+oooo|
-                              |oooooooooooooooooooooooooooooooooooooooo|
-                              +----------------------------------------+
+                   
 ```
 >  [!Note]
 > This project was inspired by a github from jessfraz, she inspired me to make these scripts. So I also recommend you take a look at the amazing work she did: https://github.com/jessfraz/dockerfiles
