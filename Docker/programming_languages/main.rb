@@ -1,1 +1,4 @@
-puts "ruby say: Hello World!!!"
+def say
+    puts "ruby say: Hello World!!!"
+    system("gem update --system")
+end
