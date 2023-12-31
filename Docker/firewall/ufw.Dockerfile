@@ -9,5 +9,7 @@ RUN ufw default allow outgoing
 RUN ufw limit SSH
 RUN ufw allow out DNS 
 RUN ufw allow out 80/tcp
-
+COPY . .
+RUN chmod 777 firewallinfo.sh
+ENTRYPOINT [ "bash","./firewallinfo.sh" ]
 CMD  [ "ufw" ]
