@@ -55,5 +55,5 @@ In the linux folder you have scripts to install things needed to run linux and p
   make
 ```
 
-# License & Copyright
+# License & Copyright©️
 MIT License
