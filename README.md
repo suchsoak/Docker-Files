@@ -42,4 +42,4 @@ If you want to take the docker images use this command: `docker system prune -a`
 ```
 
 # License & Copyright©️
-MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
