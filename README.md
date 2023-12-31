@@ -35,7 +35,16 @@ We have here scrips to get hacker tools like nmap, aircrack-ng. Also to get prog
 
 To improve the understanding I will put as an update, something like: v1.0.0 and so on. So I'll also put in more scrips over time.
 
-If you want to take the docker images use this command: **docker system prune -a**
+If you want to take the docker images use this command: `docker system prune -a`
+
+### The past linux
+
+In the linux folder you have scripts to install things needed to run linux and packages that are of great value to linux.
+
+| folder |  Links |
+| ------ | ------ |
+| LINUX | https://github.com/suchsoak/Docker-Files/tree/main/linux
+
 
 # Usage
 
