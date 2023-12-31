@@ -28,20 +28,6 @@ So I'll also put in more scrips over time.
 
 If you want to take the docker images use this command: `docker system prune -a`
 
-<details>
-  
-<summary>LINUX</summary>
-  
-### LINUX folder
-
-In the linux folder you have scripts to install things needed to run linux and packages that are of great value to linux.
-
-| folder |  Links |
-| ------ | ------ |
-| LINUX | https://github.com/suchsoak/Docker-Files/blob/main/linux/linux.md
-
-</details>
-
 # Usage
 
 ```sh
