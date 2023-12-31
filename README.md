@@ -24,7 +24,7 @@
 
 We have here scrips to get hacker tools like nmap, aircrack-ng. Also to get programming languages and many other scrips. Enjoy and have fun.
 
-To improve the understanding I will put as an update, something like: v1.0.0 and so on. So I'll also put in more scrips over time.
+So I'll also put in more scrips over time.
 
 If you want to take the docker images use this command: `docker system prune -a`
 
