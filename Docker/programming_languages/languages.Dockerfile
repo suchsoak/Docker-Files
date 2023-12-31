@@ -24,6 +24,9 @@ RUN go run main.go
 RUN go version
 RUN python3 main.py
 RUN python3 -V
+RUN gcc hello.c -o hello.exe
+RUN chmod +X hello.exe
+RUN ./hello.exe
 RUN ruby main.rb
 RUN ruby -v
 RUN lua main.lua
