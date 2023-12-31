@@ -1,6 +1,5 @@
 FROM ubuntu
 LABEL maintainer "BY: suchsoak"
-LABEL maintainer "V.1.0.0"
 RUN apt-get update && apt-get upgrade -y
 RUN dpkg --configure -a
 RUN apt-get update && apt-get install -y \
