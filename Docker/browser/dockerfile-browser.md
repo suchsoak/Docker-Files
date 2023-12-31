@@ -31,7 +31,7 @@ RUN apt-get install google-chrome-stable
 ```
 
 ### For test the firefox i put the shell file
-
+![shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ```sh
 
 #!/bin/bash
