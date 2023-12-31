@@ -1,6 +1,5 @@
 FROM fedora
 LABEL maintainer "BY: suchsoak"
-LABEL maintainer "V.1.0.0"
 RUN dnf update -y
 RUN dnf update --refresh 
 RUN dnf update && dnf install -y \
