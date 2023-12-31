@@ -22,10 +22,9 @@ COPY . .
 
 RUN go run main.go
 RUN go version
-RUN lua main.lua
-RUN lua -v
 RUN python3 main.py
 RUN python3 -V
 RUN ruby main.rb
 RUN ruby -v
+RUN lua main.lua
 ENTRYPOINT [ "lua", "-v" ]
