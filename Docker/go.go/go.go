@@ -29,14 +29,4 @@ func main() {
 
 	fmt.Println("Whoami:", whoami.Username)
 	}
-
-	cmd := exec.Command("pwd")
-	output, err := cmd.CombinedOutput()
-	if err != nil{
-		fmt.Println("Error", err)
-		return
-	}
-
-	fmt.Println("Output", output)
-
 }
