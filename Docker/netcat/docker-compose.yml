@@ -1,0 +1,11 @@
+version: "1"
+services:
+  netcat:
+    container_name: netcat
+    ports:
+      - 8080:8080
+    restart: always
+    volumes:
+      - /path/to/config:/etc/netcat
+      - /path/to/data:/var/lib/netcat
+    stop_grace_period: 3m
