@@ -22,7 +22,7 @@
 
 # Scripts
 
-We have here scrips to get hacker tools like nmap, aircrack-ng. Also to get programming languages and many other scrips. Enjoy and have fun.
+We have here scrips to get hacker tools like `nmap, aircrack-ng.` Also to get programming languages and many other scrips. Enjoy and have fun.
 
 So I'll also put in more scrips over time.
 
