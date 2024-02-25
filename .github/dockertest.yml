@@ -1,9 +1,9 @@
 on:
   push
-name: make test
+name: dockertest
 jobs:
   test:
-    name: make test
+    name: dockertest
     runs-on: ubuntu-latest
     steps:
       - uses: actions
