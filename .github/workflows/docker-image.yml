@@ -6,7 +6,7 @@ jobs:
     name: dockertest
     runs-on: ubuntu-latest
     steps:
-      - uses: actions
+      - uses: actions/checkout@master
         with:
           fetch-depth: '2'
       - name: dockertest
