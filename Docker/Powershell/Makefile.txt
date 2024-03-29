@@ -1,0 +1,2 @@
+docker:
+		sudo docker build -f powershell.Dockerfile -t powershell1 .
