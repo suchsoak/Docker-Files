@@ -1,6 +1,6 @@
 # Docker
 
-# It has 2 Dockerfile, one is to install powershell on docker another is to install docker powershell
+### It has 2 Dockerfile, one is to install powershell on docker another is to install docker powershell
 
 ### The first you install powershell on docker
 
