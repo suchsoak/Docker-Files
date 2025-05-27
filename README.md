@@ -1,77 +1,78 @@
+
 <p align="center">
     <img src="https://img.shields.io/badge/Docker-ready-blue?logo=docker" alt="Docker">
     <img src="https://img.shields.io/badge/Scripts-hacker%20tools-orange" alt="Scripts">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
 </p>
 
-<h1 align="center">🐳 Dockerfiles & Scripts Hacker</h1>
+<h1 align="center">🐳 Dockerfiles & Hacker Scripts</h1>
 
 <p align="center">
-    <b>Imagens Docker e scripts prontos para facilitar sua vida, com ferramentas de hacking, linguagens de programação e muito mais.</b>
+    <b>Ready-to-use Docker images and scripts to make your life easier, with hacking tools, programming languages, and much more.</b>
 </p>
 
 ---
 
-## ✨ Destaques
+## ✨ Highlights
 
-- 🔎 <b>Ferramentas Hacker:</b> Scripts para instalar <code>nmap</code>, <code>aircrack-ng</code> e outras ferramentas de pentest.
-- 💻 <b>Ambientes de Programação:</b> Dockerfiles para linguagens populares.
-- 🛠️ <b>Automação:</b> Scripts práticos para agilizar seu setup.
-- 📦 <b>Imagens Otimizadas:</b> Baseadas em boas práticas e inspiradas no trabalho da <a href="https://github.com/jessfraz/dockerfiles">jessfraz</a>.
+- 🔎 <b>Hacker Tools:</b> Scripts to install <code>nmap</code>, <code>aircrack-ng</code>, and other pentest tools.
+- 💻 <b>Programming Environments:</b> Dockerfiles for popular languages.
+- 🛠️ <b>Automation:</b> Handy scripts to speed up your setup.
+- 📦 <b>Optimized Images:</b> Based on best practices and inspired by <a href="https://github.com/jessfraz/dockerfiles">jessfraz</a>'s work.
 
 ---
 
-## 🚀 Como Usar
+## 🚀 How to Use
 
 <details>
-    <summary><b>Passo a passo para rodar os Dockerfiles</b></summary>
+    <summary><b>Step-by-step to run the Dockerfiles</b></summary>
 
-1. <b>Clone o repositório:</b>
-<pre><code>git clone https://github.com/seu-usuario/dockerfiles-hacker.git
+1. <b>Clone the repository:</b>
+    <pre><code>git clone https://github.com/your-username/dockerfiles-hacker.git
 cd dockerfiles-hacker
 </code></pre>
 
-2. <b>Construa a imagem desejada:</b>
-    <pre><code>docker build -f <Dockerfile> -t <nome-da-imagem> .</code></pre>
+2. <b>Build the desired image:</b>
+    <pre><code>docker build -f <Dockerfile> -t <image-name> .</code></pre>
 
-3. <b>Use o Makefile para facilitar:</b>
+3. <b>Use the Makefile for convenience:</b>
     <pre><code>make</code></pre>
 
-4. <b>Limpe imagens antigas (opcional):</b>
+4. <b>Clean up old images (optional):</b>
     <pre><code>docker system prune -a</code></pre>
 </details>
 
 ---
 
-## 📜 Exemplos de Scripts
+## 📜 Script Examples
 
-- Instale ferramentas de hacking rapidamente.
-- Monte ambientes de desenvolvimento isolados.
-- Automatize tarefas repetitivas.
-
----
-
-## 💡 Dicas
-
-- Veja o trabalho incrível da <a href="https://github.com/jessfraz/dockerfiles">jessfraz</a> para mais inspirações!
-- Novos scripts e Dockerfiles serão adicionados com o tempo. Fique de olho!
+- Quickly install hacking tools.
+- Set up isolated development environments.
+- Automate repetitive tasks.
 
 ---
 
-## 🤝 Contribuição
+## 💡 Tips
 
-Contribuições são bem-vindas!  
-Abra uma <a href="https://github.com/seu-usuario/dockerfiles-hacker/issues">issue</a> ou envie um <a href="https://github.com/seu-usuario/dockerfiles-hacker/pulls">pull request</a>.
+- Check out the amazing work by <a href="https://github.com/jessfraz/dockerfiles">jessfraz</a> for more inspiration!
+- New scripts and Dockerfiles will be added over time. Stay tuned!
 
 ---
 
-## 📄 Licença
+## 🤝 Contributing
 
-Este projeto está sob a licença MIT.  
+Contributions are welcome!  
+Open an <a href="https://github.com/your-username/dockerfiles-hacker/issues">issue</a> or send a <a href="https://github.com/your-username/dockerfiles-hacker/pulls">pull request</a>.
+
+---
+
+## 📄 License
+
+This project is under the MIT license.  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
 <p align="center">
-    Feito com <span style="color:#2496ed;">🐳</span> e paixão por automação.
+    Made with <span style="color:#2496ed;">🐳</span> and a passion for automation.
 </p>
