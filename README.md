@@ -1,45 +1,77 @@
-# Docker-Files
+<p align="center">
+    <img src="https://img.shields.io/badge/Docker-ready-blue?logo=docker" alt="Docker">
+    <img src="https://img.shields.io/badge/Scripts-hacker%20tools-orange" alt="Scripts">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+</p>
 
-### Dockerfiles for let our lifes more eay
+<h1 align="center">🐳 Dockerfiles & Scripts Hacker</h1>
 
-```sh
-                              |oooooooooooooooooooo+++ooooooooooooooooo|
-                              |oooooooooooooooooooo   +oooooooooooooooo|
-                              |ooooooooooooo..::.::. .+oooooooooooooooo|
-                              |oooooooooo+o+  .:  :. .++oooo. .oooooooo|
-                              |ooooooooo.  :  .:  :   :  .o+    :::+ooo|
-                              |ooooooo++. .:...: .:. .:...+:      .oooo|
-                              |oooooo+                        .:++ooooo|
-                              |ooooooo                       .ooooooooo|
-                              |ooooooo:                     :oooooooooo|
-                              |oooooooo+                 .:oooooooooooo|
-                              |oooooooooo+:.         .:++oooooooooooooo|
-                              |ooooooooooooooo+++oooooooooooooooooooooo|
-                   
-```
->  [!Note]
-> This project was inspired by a github from jessfraz, she inspired me to make these scripts. So I also recommend you take a look at the amazing work she did: https://github.com/jessfraz/dockerfiles
+<p align="center">
+    <b>Imagens Docker e scripts prontos para facilitar sua vida, com ferramentas de hacking, linguagens de programação e muito mais.</b>
+</p>
 
-# Scripts
+---
 
-We have here scrips to get hacker tools like `nmap, aircrack-ng.` Also to get programming languages and many other scrips. Enjoy and have fun.
+## ✨ Destaques
 
-So I'll also put in more scrips over time.
+- 🔎 <b>Ferramentas Hacker:</b> Scripts para instalar <code>nmap</code>, <code>aircrack-ng</code> e outras ferramentas de pentest.
+- 💻 <b>Ambientes de Programação:</b> Dockerfiles para linguagens populares.
+- 🛠️ <b>Automação:</b> Scripts práticos para agilizar seu setup.
+- 📦 <b>Imagens Otimizadas:</b> Baseadas em boas práticas e inspiradas no trabalho da <a href="https://github.com/jessfraz/dockerfiles">jessfraz</a>.
 
-If you want to take the docker images use this command: `docker system prune -a`
+---
 
-# Usage
+## 🚀 Como Usar
 
-```sh
-  docker build -f <Dockerfile> -t <name> .
-```
+<details>
+    <summary><b>Passo a passo para rodar os Dockerfiles</b></summary>
 
->[!TIP]
->To make the scripts easier to use, you can use the Makefile. Just place the make command inside the folder in the terminal where the Makefile file is located.
+1. <b>Clone o repositório:</b>
+<pre><code>git clone https://github.com/seu-usuario/dockerfiles-hacker.git
+cd dockerfiles-hacker
+</code></pre>
 
-```sh
-  make
-```
+2. <b>Construa a imagem desejada:</b>
+    <pre><code>docker build -f <Dockerfile> -t <nome-da-imagem> .</code></pre>
 
-# License & Copyright©️
+3. <b>Use o Makefile para facilitar:</b>
+    <pre><code>make</code></pre>
+
+4. <b>Limpe imagens antigas (opcional):</b>
+    <pre><code>docker system prune -a</code></pre>
+</details>
+
+---
+
+## 📜 Exemplos de Scripts
+
+- Instale ferramentas de hacking rapidamente.
+- Monte ambientes de desenvolvimento isolados.
+- Automatize tarefas repetitivas.
+
+---
+
+## 💡 Dicas
+
+- Veja o trabalho incrível da <a href="https://github.com/jessfraz/dockerfiles">jessfraz</a> para mais inspirações!
+- Novos scripts e Dockerfiles serão adicionados com o tempo. Fique de olho!
+
+---
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas!  
+Abra uma <a href="https://github.com/seu-usuario/dockerfiles-hacker/issues">issue</a> ou envie um <a href="https://github.com/seu-usuario/dockerfiles-hacker/pulls">pull request</a>.
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+---
+
+<p align="center">
+    Feito com <span style="color:#2496ed;">🐳</span> e paixão por automação.
+</p>
