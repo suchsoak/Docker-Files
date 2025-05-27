@@ -59,13 +59,6 @@ cd dockerfiles-hacker
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!  
-Open an <a href="https://github.com/your-username/dockerfiles-hacker/issues">issue</a> or send a <a href="https://github.com/your-username/dockerfiles-hacker/pulls">pull request</a>.
-
----
-
 ## 📄 License
 
 This project is under the MIT license.  
